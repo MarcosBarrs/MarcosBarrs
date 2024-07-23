@@ -1,6 +1,6 @@
 ## Oi!  Eu sou o Marcos Barros
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript e React Js
 - 😄 Pronomes: Ele/Dele
 
 <div>
