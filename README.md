@@ -1,6 +1,6 @@
 ## Oi!  Eu sou o Marcos Barros
 
-- 🌱 Estudando JavaScript e React Js
+- 🌱 Estudando JavaScript e React.JS
 - 😄 Pronomes: Ele/Dele
 
 <div>
@@ -10,9 +10,10 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mar-Salesforce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
-  <img align="center" alt="Mar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Mar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
   ##
